@@ -7,7 +7,7 @@
 <p> Before my PhD, I had 5 years of industrial research experience in computer vision, working for giant companies as well as start-ups including <a href="https://research.samsung.com/sri-b">Samsung Research India</a>, <a href="https://www.synechron.com/">Synechron India</a> and <a href="https://upgradcampus.com/">upGradCampus India</a>. I also had the privilege of working with <a href="http://cds.iisc.ac.in/faculty/venky/">Prof. R. Venkatesh Babu</a> at <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a> on crowd flow analysis in videos. I did my Masters at <a href="https://www.iitg.ac.in/">Indian Institute of Technology Guwahati</a>.
               </p>
  <p>
-                I'm interested in computer vision, affective computing, deep learning, and multimodal video understanding models. Most of my research revolves around video analytics, weakly supervised learning, facial behavior analysis, and audio-visual fusion. Selected publications of my work can be found below.
+                I'm interested in computer vision, affective computing, deep learning, and multimodal video understanding models. Most of my research revolves around video analytics, weakly supervised learning, facial behavior analysis, and audio-visual fusion. 
               </p>
 
 <p>
