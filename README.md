@@ -17,8 +17,8 @@
 <a href="https://orcid.org/0000-0002-4698-9198">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--4698--9198-green.svg?&style=flat-square&logo=orcid&logoColor=white">
 </a>
-<a href="mailto:praveenrgp1988@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+<a href="https://www.researchgate.net/profile/Gnana-Praveen-Rajasekhar">
+    <img src="https://img.shields.io/badge/Research%20Gate-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white">
 </a>
 
 <br />
@@ -41,7 +41,8 @@
 <a href = 'https://www.twitter.com/GnanaPraveenR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'http://praveena2j.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/praveena2j'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
+<a href = 'http://praveena2j.blogspot.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blog.svg"/></a>
+<a href="mailto:praveenrgp1988@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> </a>
 
 
 
