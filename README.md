@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![praveena2j](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=R.Gnana+Praveen;Machine+Learning+Researcher)](https://github.com/praveena2j)
+[![praveena2j](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=I+am+Praveen;Machine+Learning+Researcher)](https://github.com/praveena2j)
 
 <p>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white">
 </a>
 <a href="https://orcid.org/0000-0002-4698-9198">
-    <img src="https://img.shields.io/badge/ORCID-0000-0002-4698-9198-green.svg?&style=flat-square&logo=orcid&logoColor=white">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--4698--9198-green.svg?&style=flat-square&logo=orcid&logoColor=white">
 </a>
 <a href="mailto:praveenrgp1988@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
@@ -30,7 +30,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=DmitryRyumin&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=praveena2j&style=flat-square">
 
 </p>
 
