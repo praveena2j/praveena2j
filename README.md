@@ -41,7 +41,6 @@
 <a href = 'https://www.twitter.com/GnanaPraveenR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'http://praveena2j.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/praveena2j'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'http://praveena2j.blogspot.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blog.svg"/></a>
 <a href="mailto:praveenrgp1988@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"> </a>
 
 
