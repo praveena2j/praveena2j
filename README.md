@@ -23,7 +23,7 @@
 
 <br />
 
-<a href="https://github.com/DmitryRyumin">
+<a href="https://github.com/praveena2j">
     <img src="https://github-stats-alpha.vercel.app/api?username=praveena2j&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF">
 <!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> -->
 </a>
@@ -35,6 +35,16 @@
 </p>
 
 ---
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/gnanapraveen'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/GnanaPraveenR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'http://praveena2j.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/praveena2j'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
+
+
 
 ### <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/papers.svg" width="16" /> Selected Research Papers
 
