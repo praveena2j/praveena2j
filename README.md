@@ -31,10 +31,9 @@
 
 <br />
 
-<a href="https://github.com/praveena2j">
+<!-- <a href="https://github.com/praveena2j">
     <img src="https://github-stats-alpha.vercel.app/api?username=praveena2j&cc=3081F7&tc=FFFFFF&ic=FFFFFF&bc=FFFFFF">
-<!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> -->
-</a>
+<!--     <img src="https://github-stats-alpha.vercel.app/api?username=DmitryRyumin&cc=0C0F19&tc=DBDBDB&ic=fff&bc=0000"> --></a>
 
 <br />
 
