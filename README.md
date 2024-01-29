@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![praveena2j](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=I+am+Praveen;Machine+Learning+Researcher)](https://github.com/praveena2j)
+[![praveena2j](https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=100&color=3081F7&vCenter=true&multiline=true&width=435&height=70&lines=I+am+Praveen;AI+Researcher)](https://github.com/praveena2j)
 
  <p>I am a post-doctoral researcher at Computer Research Institute of Montreal (CRIM). I did PhD in artificial intelligence (focused on computer vision and affective computing) at <a href="https://liviamtl.ca/">LIVIA lab</a>, ETS Montreal, Canada under the supervision of <a href="https://www.etsmtl.ca/en/research/professors/egranger">Prof. Eric Granger</a> and <a href="https://www.etsmtl.ca/en/research/professors/pcardinal">Prof. Patrick Cardinal</a> in 2023. In my thesis, I have worked on developing weakly supervised learning (multiple instance learning) models for facial expression recognition in videos and novel attention models for audio-visual fusion in dimensional emotion recognition.
 </p>
